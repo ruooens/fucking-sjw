@@ -25,5 +25,5 @@ Think about it.
 GitHub can delete this repo and ban my account. This will only confirm my words. But I
 hope people are saner than those who started it think, and this madness will end soon.
 
-PS Sorry for my bad English. I am a russian software engineer and use Google Translate to
+PS Sorry for my bad English. I am a russian software engineer and computer scientist and use a translator to
 express my thoughts in a non-native language.
